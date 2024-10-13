@@ -145,4 +145,3 @@ Dieses Programm ist ein GUI-basierter Signalanalysator für RTL-SDR-Geräte. Es 
   Melde dich dann ab und wieder an, damit die Änderungen wirksam werden.
 
 - Wenn rtl_433 nicht gefunden wird, stelle sicher, dass es installiert ist und sich in deinem System-PATH befindet.
-
